@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/j2yhIuvg.png)
+
 Monokai theme for cmd and Powershell
 
 ## Install
